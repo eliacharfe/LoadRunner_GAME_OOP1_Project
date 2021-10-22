@@ -1,0 +1,137 @@
+18 22 -1
+### ##############@###
+# *  %                
+#FFH----H      FFFFFF#
+#  H    H  +      % X#
+#  H    HFFFFF  FFHFF#
+   H              H  #
+#F HFF            H +#
+# FH--*H X +    FFFFF#
+#  H   #FFFH          
+  %H       H   FFFFFF#
+#FFFFFF-----         #
+#         H  *     *  
+#         HFFFF    H #
+#       * H        H #
+#     HFFFFF----FFFH #
+#     H      %     H #
+      H   *+       H #
+#FFFFFFFFFFFFFFFFFFFF#
+
+20 23 140
+## ####################
+  @        % +      * #
+#FFF     HFFFFFH  HFF #
+#    H#FFF     H  H    
+# *  H         F HFFFF#
+#FFFFHH  --------H----#
+#     H%         H    #
+#     H  ----HFFFFFFFF#
+  *   H      H     +  #
+#FFFFFFFF    H    H#H #
+#------------H    H#H #
+# *     X    H    H#H* 
+#     HFFFFFFH FFFFFFF#
+#     H  ### H        #
+#  *  H   #  H-----#  #
+#  HFFF#-----H   X #  #
+#  H %       H  FFFF   
+   H         H  %     #
+#  H    *  + H         
+#FFFFFFFFFFFFFFFFFFFFF#
+
+9 9 -1
+#########
+#@***+**#
+#*H**H**#
+#*H**H**#
+#*H**H**#
+#*H+*H**#
+#*H**H**#
+#*H**H*+#
+#FFFFFFF#
+
+23 26 120
+##  ######################
+  @                  * % #
+#    +X    H-------F HFFF#
+#HFFFFFF   H X       H   #
+#H  *  H   HFFFFH-------- 
+##FFFFFH        H *   %  #
+#    X H        H        #
+#   FFFH------FFFHHFFFFFF#
+  +               H      #
+#FFFF ----H-------H   #  #
+#         H   *   H   #  #
+#   ###   FFFFFH FFFFF#FF#
+#              H         #
+   %    *      H         #
+#FFF FFFFFFFFFFH         #
+#              H   *    +# 
+#            HFFFFFFFH---#
+#---------FFFF       H % #
+# *                  H   #          
+#    %          *    H    
+#           HFFFFFFFFFFFF#
+#           H    X*       
+#FFFFFFFFFFFFFFFFFFFFFFFF#
+
+21 36 110
+############ ## ##### ######## #####
+#  @                               #
+#    -------*           +------*   #
+#FFFF       H           H          #
+#           H           H          #
+#         * H   +   %  XH         % 
+#         FFFFFFFFFFFFFFHFF FFFFFFF#
+  %    X+               H          #
+#FFFFFFFF               H           
+#                       H          #
+#  -----  X     *  -----H          #
+#  *    FFFFFFFFFFF     H    %   +  
+#      X              FFHFFFFFHFFFF#
+#     FFF               H          #
+#                       H     *   % 
+#                       H  FFFHFFFF#
+#  #FFF       *---------H     H    #
+#  #          H         *          #
+#  #          H         X          #
+#  #*         H     %   +    X      
+#FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF#
+
+9 9 -1
+#########
+#@******#
+#*H**H**#
+#*H**H**#
+#*H+*H**#
+#*H**H**#
+#*H**H**#
+#*H**H*+#
+#FFFFFFF#
+
+22 25 100
+############ ## ##### ###
+   *       @         * %#
+   H +           X+  H  #
+   HFFFFFFHX----HFF  H  #
+XXX       H          H   
+*       HFFFF--------FFF#
+H % *   H             * #
+HFFFFFFFH     FF  FFFFFF#
+H           #           #
+H   %      *#        X* #
+H        FFF#-------FFFF#
+H *          H          #
+#FFFFF---H   H           
+#        H--HFFFFFFFFFFF#
+            H-----      #
+#          HH         % #
+#  +       H      *     #
+# FFF      H  +         #
+*      %   H      X     #
+#          H            #
+#          H             
+#FFFFFFFFFFFFFFFFFFFFFFF#
+
+0 0 0 

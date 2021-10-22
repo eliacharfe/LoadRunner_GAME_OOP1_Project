@@ -1,0 +1,11 @@
+﻿
+configure_file (C:/SFML/SFML-2.5.1/bin/openal32.dll ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file("musicBackground.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file("eatSound.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file("soundPresent.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file("badPresentSound.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file("enemySoundCollision.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file("winLevel.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file("soundWinGame.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file("GameOverSound.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file("soundDig.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
